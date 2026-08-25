@@ -1,4 +1,4 @@
-# AutoReboot 自动重启模块
+# GrapheneOS补完计划4--AutoReboot 自动重启模块--实现部分GrapheneOS的功能
 
 一个基于 KernelSU 的 Android 设备自动重启管理模块，支持 WebUI 可视化配置和多种调度模式。
 
