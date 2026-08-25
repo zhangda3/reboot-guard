@@ -208,14 +208,6 @@ cat /data/adb/reboot_guard/reboot_guard.log
 
 欢迎提交 Issue 和 Pull Request！
 
-## 📄 许可证
-
-本项目基于开源协议发布，详见 LICENSE 文件。
-
-## 👨‍💻 作者
-
-KernelSU-Tools
-
 ---
 
 **温馨提示**：自动重启功能可能导致数据丢失，请谨慎使用并确保重要数据已备份。
